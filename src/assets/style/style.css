@@ -1,0 +1,40 @@
+@import url('./global.css');
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 49px 0;
+}
+
+.nav-header{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.nav-header ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+
+.nav-header ul a{
+    text-decoration: none;
+    color: #000001;
+}
+
+.login-header{
+  display: flex;
+  gap: 24px;
+  
+}
+
+.food-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.food-content{
+    width: 523px;
+}
