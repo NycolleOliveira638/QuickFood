@@ -38,3 +38,41 @@ header{
 .food-content{
     width: 523px;
 }
+
+.food-primary{
+     color: var(--color-primary);
+}
+
+.whychoose-conteiner{   
+    text-align: center;
+}
+
+
+.choose-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+    
+}
+
+.choose-content{
+    text-align: center;
+}
+
+
+
+
+
+.number-clients{
+  display: flex;
+  justify-content: center;
+  gap: 225px;
+  margin-top: 60px;
+}
+
+.number-clients h4{
+    padding: 10px;
+
+}

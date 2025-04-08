@@ -27,9 +27,21 @@ h2{
     background-color: var(--color-primary);
     border-radius: 4px;
     color: var(--color-neutral-white);
-    padding: 14px 32px;
+    padding: 16px 32px;
     cursor: pointer;
     margin-top: 32px;
+
+}
+
+.btn-products{
+    background-color: var(--color-neutral-white);
+    border-radius: 4px;
+    color: var(--color-primary);
+    padding: 16px 32px;
+    cursor: pointer;
+    margin-top: 32px;
+    border: 1px solid var(--color-primary);
+    margin-top: auto;
 }
 
 :root{
