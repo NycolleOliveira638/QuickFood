@@ -33,6 +33,15 @@ h2{
 
 }
 
+ .btn-salad{
+    background-color: var(--color-primary);
+    border-radius: 4px;
+    color: var(--color-neutral-white);
+    padding: 16px 140px;
+    cursor: pointer;
+    margin-top: 32px;
+ }
+
 .btn-products{
     background-color: var(--color-neutral-white);
     border-radius: 4px;

@@ -74,5 +74,16 @@ header{
 
 .number-clients h4{
     padding: 10px;
+}
 
+
+.salad-content{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.Special-conteiner{
+    display: flex;
+    justify-content: center;
 }
