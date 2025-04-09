@@ -35,7 +35,7 @@ h2{
 
  .btn-salad{
     background-color: var(--color-primary);
-    border-radius: 4px;
+    border-radius: 8px;
     color: var(--color-neutral-white);
     padding: 16px 140px;
     cursor: pointer;
@@ -56,7 +56,7 @@ h2{
 :root{
     --color-neutral-black: #263238;
     --color-neutral-d_grey: #4D4D4D;
-    --color-neutral-grey: #717171;
+    --color-neutral-grey: #999999;
     --color-neutral-L_grey: #89939E;
     --color-neutral-Grey-blue: #ABBED1;
     --color-neutral-silver: #F5F7FA;
